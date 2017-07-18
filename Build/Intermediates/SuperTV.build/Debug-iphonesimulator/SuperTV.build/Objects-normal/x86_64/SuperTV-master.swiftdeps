@@ -1,0 +1,6 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.53 clang-802.0.42)"
+options: "20739703c63bb9f4bed0a431ce8e8c3e"
+build_time: [553709518, 625397000]
+inputs:
+  "/Users/kkovacse/Desktop/Supercharge/SuperTV/SuperTV/ViewController.swift": !dirty [553709491, 0]
+  "/Users/kkovacse/Desktop/Supercharge/SuperTV/SuperTV/AppDelegate.swift": !dirty [553709491, 0]
